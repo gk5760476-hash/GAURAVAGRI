@@ -1,0 +1,8 @@
+*.pdf
+.system_generated/
+.tempmediaStorage/
+.user_uploaded/
+__pycache__/
+*.webp
+*.png
+browser/
